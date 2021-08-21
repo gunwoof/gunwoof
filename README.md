@@ -6,7 +6,6 @@
 |전공 : 사학과, 전산통계학과|
 [![Gunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwoof)](https://github.com/gunwoof/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunwoof)](https://github.com/gunwoof/github-readme-stats)
----
 ## contact 
 
 - gunwoof1234@naver.com
