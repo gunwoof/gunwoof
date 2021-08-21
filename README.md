@@ -4,6 +4,10 @@
 |1997년 9월 16일 출생|
 |제주대학교 재학|
 |전공 : 사학과, 전산통계학과|  
+
+
+
+
 [![Gunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwoof)](https://github.com/gunwoof/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunwoof)](https://github.com/gunwoof/github-readme-stats)
 ## contact 
 
