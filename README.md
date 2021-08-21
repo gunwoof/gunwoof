@@ -1,4 +1,26 @@
-### Hi there 👋
+# 배건우(GunWoo Bae)
+-------------------
+코딩공부를 시작한지 3달정도 되었습니다
+------------------------------------
+|Profile|
+|:-----:|
+|1997년 9월 16일 출생|
+|제주대학교 재학|
+|전공 : 사학과, 전산통계학과|
+
+## Programming Language
+
+- html, css, javascript
+- c language
+
+## framework
+
+- VUE.js
+
+## contact 
+
+- gunwoof1234@naver.com
+
 
 <!--
 **gunwoof/gunwoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
