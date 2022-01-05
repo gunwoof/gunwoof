@@ -8,8 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunwoof)](https://github.com/gunwoof/github-readme-stats)
 ## contact 
 
-- gunwoof1234@naver.com
-
+- 카카오 ID : gunwoof1234@naver.com
+- CS 정리 : https://confusion-fan-64d.notion.site/CS-a3ec16b53245448fb229accf81a7990b
 
 <!--
 **gunwoof/gunwoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
