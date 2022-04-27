@@ -6,6 +6,8 @@
 |전공 : 사학과, 전산통계학과|
 [![Gunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwoof)](https://github.com/gunwoof/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunwoof)](https://github.com/gunwoof/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunwoof)](https://solved.ac/gunwoof)
 ## contact 
 
 - 카카오 ID : gunwoof1234@naver.com
