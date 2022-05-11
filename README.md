@@ -4,7 +4,6 @@
 |1997년 9월 16일 출생|
 |제주대학교 재학|
 |전공 : 사학과, 전산통계학과|
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunwoof)](https://solved.ac/gunwoof/)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunwoof)](https://solved.ac/gunwoof)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunwoof)](https://github.com/gunwoof/github-readme-stats)
 
