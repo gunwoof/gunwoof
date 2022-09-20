@@ -7,7 +7,7 @@
 
 
 ## experience
-* 구글 머신러닝 부트캠프 (2022-06-22~)
+* 구글 머신러닝 부트캠프 (2022-06-22~2022-09-19)
 ## note
 * CS 지식 정리 : https://confusion-fan-64d.notion.site/CS-a3ec16b53245448fb229accf81a7990b
 ## contact 
