@@ -8,7 +8,7 @@
 
 ## experience
 * 구글 머신러닝 부트캠프 (2022-06-22~2022-09-19)
-* cj remote internship (2022-09-20~)
+* cj remote internship (2022-09-20~2022-11-21)
 ## certificate
 * TensorFlow Developer Certificate
 ## note
