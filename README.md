@@ -13,7 +13,7 @@
 
 
 ## certificate
-* TensorFlow Developer Certificate
+* TensorFlow Developer Certificate (2022-09-15)
 ## note
 * CS 지식 정리 : https://confusion-fan-64d.notion.site/CS-a3ec16b53245448fb229accf81a7990b
 ## contact 
