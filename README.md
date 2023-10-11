@@ -1,14 +1,17 @@
 |Profile|
 |:-----:|
 |배건우(GunWoo Bae)|
-|제주대학교 재학|
+|제주대학교 졸업|
 |전공 : 사학과, 전산통계학과|
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunwoof)](https://solved.ac/gunwoof)
 
 
 ## experience
-* 구글 머신러닝 부트캠프 (2022-06-22~2022-09-19)
-* cj remote internship (2022-09-20~2022-11-21)
+* Unist U-SURF Internship (2023-07-03~2023-08-25)
+* * Cj Olivenetworks Remote Internship (2022-09-20~2022-11-21)
+* Google Developers Machine Learning Bootcamp (2022-06-22~2022-09-19)
+
+
 ## certificate
 * TensorFlow Developer Certificate
 ## note
