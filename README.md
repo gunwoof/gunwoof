@@ -8,7 +8,7 @@
 
 ## experience
 * Naver Boostcamp AI Tech (2023-11-06~)
-* Unist U-SURF Internship (2023-07-03~2023-08-25)
+* Unist ML And Finance Lab Intern (2023-07-03~2023-08-25)
 * Cj Olivenetworks Remote Internship (2022-09-20~2022-11-21)
 * Google Developers Machine Learning Bootcamp (2022-06-22~2022-09-19)
 
