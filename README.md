@@ -16,6 +16,7 @@
 ## certificate
 * TensorFlow Developer Certificate (2022-09-15)
 ## note
+* 포트폴리오 : https://confusion-fan-64d.notion.site/4fb98efaa753484e9792465d989681ee?pvs=4
 * CS 지식 정리 : https://confusion-fan-64d.notion.site/CS-a3ec16b53245448fb229accf81a7990b
 ## contact 
 * email : gunwoof1234@naver.com
