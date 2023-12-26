@@ -11,15 +11,13 @@
 * Unist ML And Finance Lab Intern (2023-07-03~2023-08-25)
 * Cj Olivenetworks Remote Internship (2022-09-20~2022-11-21)
 * Google Developers Machine Learning Bootcamp (2022-06-22~2022-09-19)
-
-
 ## certificate
 * TensorFlow Developer Certificate (2022-09-15)
-## note
-* 포트폴리오 : https://confusion-fan-64d.notion.site/4fb98efaa753484e9792465d989681ee?pvs=4
-* CS 지식 정리 : https://confusion-fan-64d.notion.site/CS-a3ec16b53245448fb229accf81a7990b
+## portfolio
+* Portfolio : https://confusion-fan-64d.notion.site/4fb98efaa753484e9792465d989681ee?pvs=4
+* Study note : https://confusion-fan-64d.notion.site/CS-a3ec16b53245448fb229accf81a7990b
 ## contact 
-* email : gunwoof1234@naver.com
+* Email : gunwoof1234@naver.com
 
 
 <!--
