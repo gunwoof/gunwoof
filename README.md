@@ -3,7 +3,7 @@
 * Name : 배건우
 * Portfolio : [👓](https://confusion-fan-64d.notion.site/4fb98efaa753484e9792465d989681ee?pvs=4)
 * Study note : [📚](https://confusion-fan-64d.notion.site/CS-a3ec16b53245448fb229accf81a7990b)
-* Baekjoon : [![Solved.ac프로필 width="100" height="100"](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunwoof)](https://solved.ac/gunwoof)
+* Baekjoon : [![Solved.ac프로필 width="10" height="10"](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunwoof)](https://solved.ac/gunwoof)
 * Email : gunwoof1234@naver.com
 ## 🏫Education
 * Jeju National University History, Computer Science and Statistics B.A.S (2017-03-01~2023-08-18)
