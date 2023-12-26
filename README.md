@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=E3A6AE&height=200&section=header&text=Bae%20GunWoo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FD866E&height=200&section=header&text=Bae%20GunWoo&fontSize=90)
 ## Education
 * Jeju National University History, Computer Science and Statistics B.A.S (2017-03-01~2023-08-18)
 * Gist AI M.S (2024-03-01~)
