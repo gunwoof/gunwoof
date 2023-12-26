@@ -6,8 +6,8 @@
 * Baekjoon : [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gunwoof)](https://solved.ac/gunwoof)
 * Email : gunwoof1234@naver.com
 ## 🏫Education
-* 제주대학교 사학과, 전산통계학과 학사졸업 (2017-03-01~2023-08-18)
-* Gist AI 대학원 석사과정 (2024-03-01~)
+* Jeju National University History and Computer Statistics B.A.S (2017-03-01~2023-08-18)
+* Gist AI Graduate School M.S (2024-03-01~)
 ## 👷Experience
 * Naver Boostcamp AI Tech (2023-11-06~)
 * Unist ML And Finance Lab Intern (2023-07-03~2023-08-25)
