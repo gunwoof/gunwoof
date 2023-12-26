@@ -10,7 +10,7 @@
 * Google Developers Machine Learning Bootcamp (2022-06-22~2022-09-19)
 ## certificate
 * Baekjun Tier
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunwoof)](https://solved.ac/gunwoof)
+<br>[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunwoof)](https://solved.ac/gunwoof)
 * TensorFlow Developer Certificate (2022-09-15)
 ## portfolio
 * Portfolio : https://confusion-fan-64d.notion.site/4fb98efaa753484e9792465d989681ee?pvs=4
