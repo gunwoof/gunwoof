@@ -1,8 +1,8 @@
 ## Profile
 배건우(GunWoo Bae)
 ## Education
-Jeju National University History, Computer Science and Statistics B.A.S (2017-03-01~2023-08-18)
-Gist AI M.S (2024-03-01~)
+*Jeju National University History, Computer Science and Statistics B.A.S (2017-03-01~2023-08-18)
+*Gist AI M.S (2024-03-01~)
 ## experience
 * Naver Boostcamp AI Tech (2023-11-06~)
 * Unist ML And Finance Lab Intern (2023-07-03~2023-08-25)
