@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ## Education
 * Jeju National University History, Computer Science and Statistics B.A.S (2017-03-01~2023-08-18)
 * Gist AI M.S (2024-03-01~)
