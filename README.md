@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=6FC7E1&height=200&section=header&text=Bae%20GunWoo&fontSize=90)
 ## 😀Profile
 * Name : 배건우
-* Portfolio : https://confusion-fan-64d.notion.site/4fb98efaa753484e9792465d989681ee?pvs=4
+* Portfolio : [👓]https://confusion-fan-64d.notion.site/4fb98efaa753484e9792465d989681ee?pvs=4
 * Study note : https://confusion-fan-64d.notion.site/CS-a3ec16b53245448fb229accf81a7990b
 * Baekjoon : <br> [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunwoof)](https://solved.ac/gunwoof)
 * Email : gunwoof1234@naver.com
