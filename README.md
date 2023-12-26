@@ -4,11 +4,11 @@
 * name : 배건우
 * Portfolio : https://confusion-fan-64d.notion.site/4fb98efaa753484e9792465d989681ee?pvs=4
 * Study note : https://confusion-fan-64d.notion.site/CS-a3ec16b53245448fb229accf81a7990b
-* Baekjoon Tier <br> [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunwoof)](https://solved.ac/gunwoof)
+* Baekjoon : <br> [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunwoof)](https://solved.ac/gunwoof)
 * Email : gunwoof1234@naver.com
 ## 🏫Education
 * Jeju National University History, Computer Science and Statistics B.A.S (2017-03-01~2023-08-18)
-* Gist AI M.S (2024-03-01~)
+* Gist AI Graduate school M.S (2024-03-01~)
 ## 👷experience
 * Naver Boostcamp AI Tech (2023-11-06~)
 * Unist ML And Finance Lab Intern (2023-07-03~2023-08-25)
