@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=6FC7E1&height=200&section=header&text=Bae%20GunWoo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=6FC7E1&height=200&section=header&text=WELCOME&fontSize=90)
 ## 😀Profile
 * Name : 배건우
 * Portfolio : [👓](https://confusion-fan-64d.notion.site/4fb98efaa753484e9792465d989681ee?pvs=4)
