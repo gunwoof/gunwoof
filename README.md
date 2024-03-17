@@ -7,7 +7,6 @@
 * Email : gunwoof1234@naver.com
 ## 🏫Education
 * Jeju National University History and Computer Statistics B.A.S (2017-03-01~2023-08-18)
-* Gist AI Graduate school M.S
 
 ## 👷Experience
 * Google Developers Machine Learning Bootcamp (2022-06-22~2022-09-19)
