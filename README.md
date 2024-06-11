@@ -6,6 +6,7 @@
 * Baekjoon : [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gunwoof)](https://solved.ac/gunwoof)
 * Email : gunwoof1234@naver.com
 ## 🏫Education
+* Gist Ai Graduate School M.S (2024-03-01~)
 * Jeju National University History and Computer Statistics B.A.S (2017-03-01~2023-08-18)
 
 ## 👷Experience
