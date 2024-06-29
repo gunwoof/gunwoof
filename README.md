@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=6FC7E1&height=200&section=header&text=WELCOME&fontSize=90)
 ## 😀Profile
 * Name : 배건우
-* Portfolio : [👓👓👓](https://confusion-fan-64d.notion.site/4fb98efaa753484e9792465d989681ee?pvs=4)
 * Study blog : [📚📚📚](https://confusion-fan-64d.notion.site/CS-a3ec16b53245448fb229accf81a7990b)
 * Baekjoon : [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gunwoof)](https://solved.ac/gunwoof)
-* Email : gunwoof1234@naver.com
+* Linckedin : https://www.linkedin.com/in/gunwoo-bae-638a62243/
+* Email : gunwoof1234@gm.gist.com
 ## 🏫Education
 * Gist Ai Graduate School M.S (2024-03-01~)
 * Jeju National University History and Computer Statistics B.A.S (2017-03-01~2023-08-18)
