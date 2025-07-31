@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=6FC7E1&height=200&section=header&text=WELCOME&fontSize=90)
 ## 😀Profile
 * Name : 배건우
 * Study blog : [📚📚📚](https://gunwoof.notion.site/study?pvs=4)
